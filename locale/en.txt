@@ -1,0 +1,33 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_40A22731_55BF_48E0_41C0_03D5867C9F67.label = 3 Lobby biblioteca 
+panorama_460490FF_55BF_4960_41AF_45EA6CF6B73E.label = 4 sala multimodal
+panorama_460A18DE_55BF_59A0_41C9_95067C07D548.label = 5 Sala Virtual 
+panorama_460AE0BE_55BF_49E0_41A7_F3967876F596.label = 6 Sala Lectura
+panorama_460A58AD_55BF_39E0_41BF_E63D65705E81.label = 7 Sala lectura y Referencia
+panorama_46020A04_55BF_D8A0_41BD_7B86B2BEA480.label = Entrada principal 
+panorama_4602D1E1_55BF_CB60_41C0_EDF2BFD3FEDB.label = Sala María Teresa Babin
+panorama_4602EA6A_55BF_F960_41B9_95D334318D10.label = Salas estudios independientes 
+panorama_460AC0D1_55BF_C9A0_41CB_2326092B723B.label = Área investigación-Sala María 
+
+## Skin
+
+### Image
+Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19.url = skin/Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19_en.jpg
+
+### Label
+Label_22BB22F4_3075_D173_41BB_3ACDC6CCCC83.text = INTER Ponce
+Label_22BB32F4_3075_D173_4191_C8B45B85DEB8.text = Universitaria
+
+### Multiline Text
+HTMLText_29DD1615_3597_79DF_41C4_7593739E5260.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = INTER Ponce 
